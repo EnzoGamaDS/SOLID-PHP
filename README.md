@@ -13,5 +13,5 @@
 
 > ### Liskov substitution principle (LSP)
 - ### <p>Attest to which method is being subtyped/ extended, so that there are no implementation conflicts.</p>
-
+- ### <p>liskov's substitution principle, a base class must be able to be replaced by its child classes anywhere in the code</p>
 #### Under development...
