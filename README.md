@@ -14,4 +14,9 @@
 > ### Liskov substitution principle (LSP)
 - ### <p>Attest to which method is being subtyped/ extended, so that there are no implementation conflicts.</p>
 - ### <p>liskov's substitution principle, a base class must be able to be replaced by its child classes anywhere in the code</p>
-#### Under development...
+
+> ### The interface segregation principle: I(SP)
+- ### Clients should not be forced to depend upon interfaces that they do not use.
+
+> ### dependency inversion principle: 
+- ### Depend upon abstractions, [not] concretions.
