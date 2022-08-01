@@ -4,7 +4,7 @@
 
 > ### Single responsibility principle (SPR)
 - ###   <p>It's about reducing class coupling by splitting and giving each class just one function.</p>
-- ###  <p>Each software module should have one and only one reason to change.<br> Uncle Bob </p>
+- ###  <p>Each software module should have one and only one reason to change.<br> Uncle Bob </p> <br>
  
 > ### Open/closed principle (OCP)
 - ### <p>We must ensure that each action or responsibility is in the correct class through interfaces, access modifiers and getters/setters we can achieve this goal.</p>
